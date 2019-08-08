@@ -3221,7 +3221,7 @@ body {
   color: #efefef !important;
 }
 .cid-ry2NtBxGFi {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 60px;
 }
 .cid-ry2NtBxGFi .mbr-media span {
@@ -3287,67 +3287,8 @@ body {
 .cid-ry2NtBxGFi .icon-description {
   color: #ffffff;
 }
-.cid-ry2HI9v7xX .divider-top {
-  position: relative;
-  padding: 2.5em;
-  background: #070202;
-}
-.cid-ry2HI9v7xX .divider-bottom {
-  position: relative;
-  padding: 2.5em;
-  background: #ffffff;
-}
-.cid-ry2HI9v7xX .divider-top::before,
-.cid-ry2HI9v7xX .divider-bottom::before,
-.cid-ry2HI9v7xX .divider-top::after,
-.cid-ry2HI9v7xX .divider-bottom::after {
-  position: absolute;
-  content: '';
-  pointer-events: none;
-}
-.cid-ry2HI9v7xX .divider-triangles::after {
-  left: 50%;
-  width: 100px;
-  height: 100px;
-  -webkit-transform: translateX(-50%) rotate(45deg);
-  transform: translateX(-50%) rotate(45deg);
-  bottom: -50px;
-  z-index: 10;
-  background: inherit;
-}
-.cid-ry2HI9v7xX .divider-triangles::before {
-  top: -50px;
-}
-.cid-ry2HI9v7xX .divider-halfcircle::after {
-  left: 50%;
-  z-index: 10;
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  background: inherit;
-  -webkit-transform: translateX(-50%);
-  transform: translateX(-50%);
-  bottom: -50px;
-}
-.cid-ry2HI9v7xX .divider-halfcircle::before {
-  top: -50px;
-}
-.cid-ry2HI9v7xX .divider-multitriangles::before,
-.cid-ry2HI9v7xX .divider-multitriangles::after {
-  left: 50%;
-  width: 50px;
-  height: 50px;
-  -webkit-transform: translateX(-50%) rotate(45deg);
-  transform: translateX(-50%) rotate(45deg);
-}
-.cid-ry2HI9v7xX .divider-multitriangles::after {
-  bottom: -25px;
-  z-index: 10;
-  background: inherit;
-  box-shadow: -50px 50px 0 #070202, 50px -50px 0 #070202;
-}
 .cid-rvHtwro7cv {
-  padding-top: 30px;
+  padding-top: 105px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -4227,7 +4168,7 @@ body {
 .cid-rx5PWpQEwU .divider-bottom {
   position: relative;
   padding: 2.5em;
-  background: #0f1111;
+  background: #2c2c2c;
 }
 .cid-rx5PWpQEwU .divider-top::before,
 .cid-rx5PWpQEwU .divider-bottom::before,
@@ -4281,7 +4222,7 @@ body {
 .cid-rt29mKBo6j {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #0f1111;
+  background-color: #2c2c2c;
 }
 .cid-rt29mKBo6j .mbr-section-subtitle {
   color: #000000;
@@ -4343,7 +4284,7 @@ body {
 .cid-rx6eOFURee .divider-top {
   position: relative;
   padding: 2.5em;
-  background: #0f1111;
+  background: #2c2c2c;
 }
 .cid-rx6eOFURee .divider-bottom {
   position: relative;
@@ -4397,7 +4338,7 @@ body {
   bottom: -25px;
   z-index: 10;
   background: inherit;
-  box-shadow: -50px 50px 0 #0f1111, 50px -50px 0 #0f1111;
+  box-shadow: -50px 50px 0 #2c2c2c, 50px -50px 0 #2c2c2c;
 }
 .cid-rv81HeEq4v {
   padding-top: 30px;
@@ -4461,7 +4402,7 @@ body {
 .cid-rvFGMlEqdN .divider-bottom {
   position: relative;
   padding: 2.5em;
-  background: #232323;
+  background: #3e3e3e;
 }
 .cid-rvFGMlEqdN .divider-top::before,
 .cid-rvFGMlEqdN .divider-bottom::before,
@@ -4515,12 +4456,12 @@ body {
 .cid-rx0rQteM5V {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #232323;
+  background-color: #3e3e3e;
 }
 .cid-ry2l5eUf61 .divider-top {
   position: relative;
   padding: 2.5em;
-  background: #232323;
+  background: #3e3e3e;
 }
 .cid-ry2l5eUf61 .divider-bottom {
   position: relative;
@@ -4574,7 +4515,7 @@ body {
   bottom: -25px;
   z-index: 10;
   background: inherit;
-  box-shadow: -50px 50px 0 #232323, 50px -50px 0 #232323;
+  box-shadow: -50px 50px 0 #3e3e3e, 50px -50px 0 #3e3e3e;
 }
 .cid-ry2zrFAhMc {
   padding-top: 15px;
@@ -5072,7 +5013,7 @@ body {
 .cid-rx0bGb4kbQ .divider-bottom {
   position: relative;
   padding: 2.5em;
-  background: #232323;
+  background: #3e3e3e;
 }
 .cid-rx0bGb4kbQ .divider-top::before,
 .cid-rx0bGb4kbQ .divider-bottom::before,
@@ -5126,7 +5067,7 @@ body {
 .cid-ry2qnPGDaS {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #232323;
+  background-color: #3e3e3e;
 }
 .cid-ry2qnPGDaS .mbr-text {
   color: #ffffff;
@@ -5148,7 +5089,7 @@ body {
 .cid-rvGwWjVAEM .divider-top {
   position: relative;
   padding: 2.5em;
-  background: #232323;
+  background: #3e3e3e;
 }
 .cid-rvGwWjVAEM .divider-bottom {
   position: relative;
@@ -5202,7 +5143,7 @@ body {
   bottom: -25px;
   z-index: 10;
   background: inherit;
-  box-shadow: -50px 50px 0 #232323, 50px -50px 0 #232323;
+  box-shadow: -50px 50px 0 #3e3e3e, 50px -50px 0 #3e3e3e;
 }
 .cid-rv819Yoflg {
   padding-top: 45px;
